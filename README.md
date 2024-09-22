@@ -1,6 +1,6 @@
 ### Hello!! I'm Gabriel 👋
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ThiagoPereira232/ThiagoPereira232/main/imgs/Code%20typing.gif" width="360px" border-radius=25px/>
+
 
 
 - 🖥️ Studying Computer Engineering (UEPG)
@@ -9,6 +9,7 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-tonon-cimatti-7992062a3)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieltonci2004@gmail.com)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ThiagoPereira232/ThiagoPereira232/main/imgs/Code%20typing.gif" width="360px" border-radius=25px/>
 
 ## 📊 GitHub Stats:
 
