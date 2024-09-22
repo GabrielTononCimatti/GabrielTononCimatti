@@ -1,11 +1,11 @@
 ### Hello!! I'm Gabriel 👋
 
-<div style="text-align: right; padding-left: 15px;">
-  <img alt="GIF" src="https://raw.githubusercontent.com/ThiagoPereira232/ThiagoPereira232/main/imgs/Code%20typing.gif" width="360px" style="border-radius: 25px;"/>
-</div>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ThiagoPereira232/ThiagoPereira232/main/imgs/Code%20typing.gif" width="360px" border-radius=25px/>
 
 
 - 🖥️ Studying Computer Engineering (UEPG)
+  
+  <br>
   
 ## 🌐 Socials:
 
