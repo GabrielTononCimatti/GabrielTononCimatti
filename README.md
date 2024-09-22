@@ -6,7 +6,6 @@
 - 🖥️ Studying Computer Engineering (UEPG)
   
 
-<div style="clear: both;"></div>
   
 ## 🌐 Socials:
 
