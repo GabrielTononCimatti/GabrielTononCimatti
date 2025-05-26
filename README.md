@@ -14,10 +14,10 @@
 
 
 ## 📊 GitHub Stats:
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ThiagoPereira232/ThiagoPereira232/main/imgs/Code%20typing.gif" width="360px" border-radius=25px/>
 ![GabrielTononCimatti GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTononCimatti&show_icons=true&theme=tokyonight)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ThiagoPereira232/ThiagoPereira232/main/imgs/Code%20typing.gif" width="360px" border-radius=25px/>
+
 ### 💻 Technologies that I use in my day:
 <div style="display: inline_block">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
