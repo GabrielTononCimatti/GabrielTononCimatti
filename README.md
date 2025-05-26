@@ -1,6 +1,6 @@
 ### Hello!! I'm Gabriel 👋
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ThiagoPereira232/ThiagoPereira232/main/imgs/Code%20typing.gif" width="360px" border-radius=25px/>
+
 
 
 - 🖥️ Studying Computer Engineering (UEPG)
