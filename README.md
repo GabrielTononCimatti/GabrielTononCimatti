@@ -14,7 +14,7 @@
 
 ### 📊 GitHub Stats:
 
-![GabrielTononCimatti GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTononCimatti&show_icons=true&theme=tokyonight)
+![GabrielTononCimatti GitHub stats](https://github-readme-stats.tuhidulhossain.com/api/stats?username=GabrielTononCimatti&theme=tokyonight&show_icons=true)
 
 
 ### 💻 Technologies that I use in my day:
